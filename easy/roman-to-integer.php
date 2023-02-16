@@ -16,4 +16,4 @@ function romanToInt($s): int
     }
     return $number;
 }
-echo romanToInt("DCCCXLIII");
+echo romanToInt("CMLXVI");
